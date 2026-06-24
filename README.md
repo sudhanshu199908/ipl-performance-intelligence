@@ -114,7 +114,7 @@ This project answers several key business and strategy questions:
 
 ### Page 1 – Executive Overview
 
-![Executive Overview](page1_overview.png)
+![Executive Overview](images/page1_overview.png)
 
 **Features**
 
@@ -134,7 +134,7 @@ This project answers several key business and strategy questions:
 
 ### Page 2 – Player Performance Intelligence
 
-![Player Performance Intelligence](page2_player_intelligence.png)
+![Player Performance Intelligence](images/page2_player_intelligence.png)
 
 **Features**
 
@@ -152,7 +152,7 @@ This project answers several key business and strategy questions:
 
 ### Page 3 – Team Performance Intelligence
 
-![Team Performance Intelligence](page3_team_intelligence.png)
+![Team Performance Intelligence](images/page3_team_intelligence.png)
 
 **Features**
 
@@ -248,7 +248,7 @@ IPL-Performance-Intelligence/
 │   ├── 07_Team_Intelligence_and_Franchise_Benchmarking.ipynb
 │   └── 08_Executive_Summary.ipynb
 │
-├── IPL_Performance_Intelligence.pbix
+├── powerbi/IPL_Performance_Intelligence.pbix
 ├── page1_overview.png
 ├── page2_player_intelligence.png
 ├── page3_team_intelligence.png
